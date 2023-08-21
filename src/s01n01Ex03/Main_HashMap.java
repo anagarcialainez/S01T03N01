@@ -19,7 +19,7 @@ public class Main_HashMap {
 		try {
 			// acceder al archivo lo hacemos a través de la clase File
 			File fichero = new File(
-					"/Users/anagarcia/eclipse-workspace/S01T03N01AnaGarcia/src/s01n01Ex03/Countries.txt");
+					"src/s01n01Ex03/Countries.txt");
 
 			// extraer la información del archivo
 			FileReader fr = new FileReader(fichero);
@@ -85,7 +85,7 @@ public class Main_HashMap {
 		String aEscribir = "El jugador: " + nomUsuario + " tiene un total de " + totAciertos + "\n";
 
 		try {
-			String ruta = "/Users/anagarcia/eclipse-workspace/S01T03N01AnaGarcia/src/s01n01Ex03/classificacio.txt";
+			String ruta = "src/s01n01Ex03/classificacio.txt";
 
 			// String contenido = "prueba de contenido";
 			File file = new File(ruta);

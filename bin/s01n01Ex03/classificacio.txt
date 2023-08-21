@@ -1,2 +1,6 @@
 El jugador: ANA tiene un total de 0El jugador: ana tiene un total de 0
 El jugador: juan tiene un total de 0
+El jugador: ANA tiene un total de 0
+El jugador: ANA tiene un total de 0
+El jugador: MARIA tiene un total de 0
+El jugador: JOSE tiene un total de 0
